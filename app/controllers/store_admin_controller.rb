@@ -6,6 +6,7 @@ class StoreAdminController < ApplicationController
   end
 
   def invoice
+    
   end
 
 end
